@@ -1,0 +1,18 @@
+[submodule "report"]
+	path = report
+	url = https://github.com/Stride-Apollo/Stride-Report.git
+[submodule "website"]
+	path = website
+	url = https://github.com/Stride-Apollo/stride-apollo.github.io.git
+[submodule "stride"]
+	path = stride
+	url = https://github.com/Stride-Apollo/Stride.git
+[submodule "prototypes/visualization"]
+	path = prototypes/visualization
+	url = https://github.com/Stride-Apollo/proto-Visualization.git
+[submodule "prototypes/tbb"]
+	path = prototypes/tbb
+	url = https://github.com/Stride-Apollo/proto-TBB.git
+[submodule "prototypes/mpi"]
+	path = prototypes/mpi
+	url = https://github.com/Stride-Apollo/proto-MPI.git
